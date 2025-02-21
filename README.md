@@ -82,9 +82,31 @@
 ---
 
 ### **Data Analysis**
+#### Descriptive Analysis 
+| Title | Venue | Date | Code | Project |
+| :---- | :---: | :--: | :--: | :-----: |
+
+| **ClusterLLM: Large language models as a guide for text clustering** | EMNLP | 2023 | [Github](https://github.com/zhang-yu-wei/ClusterLLM) | Project |
+| **Efficient Few-Shot Fine-Tuning for Opinion Summarization** | NAACL | 2023 | [Github](https://github.com/amazon-research/adasum) | Project |
+| **Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization** | EMNLP | 2021 | [Github](https://github.com/HLTCHKUST/VG-GPLMs) | Project |
+| **Element-aware Summarization with Large Language Models: Expert-aligned Evaluation and Chain-of-Thought Method** | ACL | 2023 | [Github](https://github.com/Alsace08/SumCoT) | Project |
+| **Planning with Learned Entity Prompts for Abstractive Summarization** | TACL | 2021 | [Github](https://github.com/google-research/google-research/tree/master/frost) | Project |
+| **Personalized Abstractive Summarization by Tri-agent Generation Pipeline** | EACL | 2023 | [Github](https://github.com/Wendy-Xiao/chatgpt_editing_summ) | Project |
+| **Similar Data Points Identification with LLM: A Human-in-the-loop Strategy Using Summarization and Hidden State Insights** | ArXiv | 2024 | Github | Project |
+| **TopicGPT: A Prompt-based Topic Modeling Framework** | NAACL | 2024 | [Github](https://github.com/chtmp223/topicGPT) | Project |
+| **Neural Topic Modeling with Large Language Models in the Loop** | ArXiv | 2024 | Github | Project |
+| **Addressing Topic Granularity and Hallucination in Large Language Models for Topic Modelling** | ArXiv | 2024 | [Github](https://github.com/GateNLP/TopicLLM_Granularity_Hallucination) | Project |
+| **Designing Heterogeneous LLM Agents for Financial Sentiment Analysis** | ACM TMIS | 2024 | Github | Project |
+| **WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge** | ACMMM | 2024 | [Github](https://github.com/DreamMr/WisdoM) | Project |
+| **Unified Multi-modal Pre-training for Few-shot Sentiment Analysis with Prompt-based Learning** | ACMMM | 2022 | [Github](https://github.com/MANLP-suda/UP-MPF) | Project |
+| **A multimodal approach to cross‑lingual sentiment analysis with ensemble of transformer and LLM** | Sci. Rep. |  | Github | Project |
+| **Sentiment Analysis through LLM Negotiations** | ArXiv | 2023 | Github | Project |
+
+### **Data Analysis**
 #### Descriptive Analysis
 | Title | Venue | Date | Code | Project |
 | :---- | :---: | :--: | :--: | :-----: |
+
 | **Lost in the middle: How language models use long contexts** | - | - | Github | Project |
 | **Me llama: Foundation large language models for medical applications** | - | - | Github | Project |
 | **TopicGPT: A prompt-based topic modeling framework** | - | - | Github | Project |
