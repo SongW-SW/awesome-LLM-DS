@@ -140,25 +140,24 @@
 #### Quantitative Analysis
 | Title | Venue | Date | Code | Project |
 | :---- | :---: | :--: | :--: | :-----: |
-| **Unichart: A Universal Vision-Language Pretrained Model for Chart Comprehension and Reasoning** | EMNLP | 2023 | [Github](https://github.com/vis-nlp/UniChart) | Project |
-| **EvoChart: A Benchmark and a Self-Training Approach Towards Real-World Chart Understanding** | - | - | Github | Project |
-| **ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning** | - | - | Github | Project |
-| **ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training** | - | - | Github | Project |
-| **Position: What Can Large Language Models Tell Us About Time Series Analysis** | - | - | Github | Project |
-| **Lambda: A Large Model Based Data Agent** | - | - | Github | Project |
-| **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding** | - | - | Github | Project |
-| **TS-Reasoner: Compositional Time Series Reasoning for End-to-End Task Execution** | - | - | Github | Project |
-| **Proteingpt: Multimodal LLM for Protein Property Prediction and Structure Understanding** | - | - | Github | Project |
-| **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models** | - | - | Github | Project |
-| **LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs** | - | - | Github | Project |
-| **GPT4MTS: Prompt-Based Large Language Model for Multimodal Time-Series Forecasting** | - | - | Github | Project |
-| **Strada-LLM: Graph LLM for Traffic Prediction** | - | - | Github | Project |
-| **LeMoLE: LLM-Enhanced Mixture of Linear Experts for Time Series Forecasting** | - | - | Github | Project |
-| **ST-LLM: Spatial-Temporal Large Language Model for Traffic Prediction** | - | - | Github | Project |
-| **Large Language Models Can Uncover Cause-and-Effect Relationships** | - | - | Github | Project |
-| **Realtcd: Temporal Causal Discovery from Interventional Data with Large Language Model** | - | - | Github | Project |
-| **MATMCD: From Query Tools to Causal Architects** | - | - | Github | Project |
-| **Order-of-Though: Are Large Language Models Capable of Causal Reasoning for Sensing Data Analysis** | - | - | Github | Project |
+| **Unichart: A Universal Vision-Language Pretrained Model for Chart Comprehension and Reasoning** | EMNLP | 2024 | [Github](https://github.com/vis-nlp/UniChart) | [Project](https://arxiv.org/abs/2305.14761) |
+| **EvoChart: A Benchmark and a Self-Training Approach Towards Real-World Chart Understanding** | AAAI | 2025 | [Github](https://github.com/MuyeHuang/EvoChart) | [Project](https://arxiv.org/abs/2409.01577) |
+| **ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning** | ACL | 2024 | [Github](https://github.com/vis-nlp/ChartInstruct?tab=readme-ov-file) | [Project](https://arxiv.org/abs/2403.09028) |
+| **ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training** | ACL| 2024 | [Github](https://github.com/OpenGVLab/ChartAst) | [Project](https://arxiv.org/abs/2401.02384) |
+| **Position: What Can Large Language Models Tell Us About Time Series Analysis** | arXiv | 2024 | Github | [Project](https://arxiv.org/abs/2402.02713) |
+| **Lambda: A Large Model Based Data Agent** | arXiv | 2024 | [Github](https://github.com/Stephen-SMJ/LAMBDA) | [Project](https://www.polyu.edu.hk/ama/cmfai/lambda.html) |
+| **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding** | ICLR | 2024 | [Github](https://github.com/google-research/chain-of-table) | [Project](https://arxiv.org/abs/2401.04398) |
+| **TS-Reasoner: Compositional Time Series Reasoning for End-to-End Task Execution** | arXiv | 2024 | Github | [Project](https://arxiv.org/html/2410.04047v1) |
+| **Proteingpt: Multimodal LLM for Protein Property Prediction and Structure Understanding** | arXiv | 2024 | Github | [Project](https://arxiv.org/abs/2408.11363) |
+| **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models** | ICLR | 2024 | [Github](https://github.com/KimMeen/Time-LLM) | [Project](https://arxiv.org/abs/2310.01728) |
+| **LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs** | TIST | 2025 | Github | [Project](https://arxiv.org/abs/2308.08469) |
+| **GPT4MTS: Prompt-Based Large Language Model for Multimodal Time-Series Forecasting** | AAAI | 2024 | Github | [Project](https://ojs.aaai.org/index.php/AAAI/article/view/30383) |
+| **Strada-LLM: Graph LLM for Traffic Prediction** | arXiv | 2024 | Github | [Project](https://arxiv.org/html/2410.20856v1) |
+| **LeMoLE: LLM-Enhanced Mixture of Linear Experts for Time Series Forecasting** | arXiv | 2024 | Github | [Project](https://arxiv.org/abs/2412.00053) |
+| **ST-LLM: Spatial-Temporal Large Language Model for Traffic Prediction** | MDM | 2024 | [Github](https://github.com/ChenxiLiu-HNU/ST-LLM) | [Project](https://arxiv.org/abs/2401.10134) |
+| **Realtcd: Temporal Causal Discovery from Interventional Data with Large Language Model** | CIKM | 2024 | Github | [Project](https://arxiv.org/abs/2404.14786) |
+| **MATMCD: From Query Tools to Causal Architects** | arXiv | 2023 | Github | [Project](https://arxiv.org/abs/2306.16902) |
+| **Order-of-Though: Are Large Language Models Capable of Causal Reasoning for Sensing Data Analysis** | EdgeFM | 2024 | Github | [Project](https://dl.acm.org/doi/pdf/10.1145/3662006.3662064) |
 ---
 
 ### **Special Domains**
