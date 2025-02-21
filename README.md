@@ -85,7 +85,6 @@
 #### Descriptive Analysis 
 | Title | Venue | Date | Code | Project |
 | :---- | :---: | :--: | :--: | :-----: |
-
 | **ClusterLLM: Large language models as a guide for text clustering** | EMNLP | 2023 | [Github](https://github.com/zhang-yu-wei/ClusterLLM) | Project |
 | **Efficient Few-Shot Fine-Tuning for Opinion Summarization** | NAACL | 2023 | [Github](https://github.com/amazon-research/adasum) | Project |
 | **Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization** | EMNLP | 2021 | [Github](https://github.com/HLTCHKUST/VG-GPLMs) | Project |
@@ -106,7 +105,6 @@
 #### Descriptive Analysis
 | Title | Venue | Date | Code | Project |
 | :---- | :---: | :--: | :--: | :-----: |
-
 | **Lost in the middle: How language models use long contexts** | - | - | Github | Project |
 | **Me llama: Foundation large language models for medical applications** | - | - | Github | Project |
 | **TopicGPT: A prompt-based topic modeling framework** | - | - | Github | Project |
