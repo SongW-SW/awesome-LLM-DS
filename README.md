@@ -138,10 +138,9 @@
 | **Lida: A Tool for Automatic Generation of Grammar-agnostic Visualizations and Infographics using Large Language Models** | ACL | 2023 | Github | Project |
 
 #### Quantitative Analysis
-
 | Title | Venue | Date | Code | Project |
 | :---- | :---: | :--: | :--: | :-----: |
-| **Unichart: A Universal Vision-Language Pretrained Model for Chart Comprehension and Reasoning** | - | - | Github | Project |
+| **Unichart: A Universal Vision-Language Pretrained Model for Chart Comprehension and Reasoning** | EMNLP | 2023 | Github[https://github.com/vis-nlp/UniChart] | Project |
 | **EvoChart: A Benchmark and a Self-Training Approach Towards Real-World Chart Understanding** | - | - | Github | Project |
 | **ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning** | - | - | Github | Project |
 | **ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training** | - | - | Github | Project |
