@@ -82,7 +82,7 @@
 ---
 
 ### **Data Analysis**
-#### 5.1
+#### Descriptive Analysis
 | Title | Venue | Date | Code | Project |
 | :---- | :---: | :--: | :--: | :-----: |
 | **Lost in the middle: How language models use long contexts** | - | - | Github | Project |
@@ -98,7 +98,7 @@
 | **Planning with learned entity prompts for abstractive summarization** | - | - | Github | Project |
 | **Personalized abstractive summarization by tri-agent generation pipeline** | - | - | Github | Project |
 
-#### 5.2
+#### Analytical Reasoning
 | Title | Venue | Date | Code | Project |
 | :---- | :---: | :--: | :--: | :-----: |
 | **Palm: Scaling language modeling with pathways** | JMLR | 2023 | - | - |
@@ -110,7 +110,7 @@
 | **GPT4Graph: Can large language models understand graph structured data? An empirical evaluation and benchmarking** | arXiv | 2023 | - | - |
 | **Cross-modal learning for chemistry property prediction: Large language models meet graph machine learning** | arXiv | 2024 | - | - |
 
-#### 5.3
+#### Interactive Analysis
 | Title | Venue | Date | Code | Project |
 | :---- | :---: | :--: | :--: | :-----: |
 | **Data Interpreter** | - | 2024 | Github | Project |
@@ -137,7 +137,7 @@
 | **QUIS: Question-guided Insights Generation for Automated Exploratory Data Analysis** | arXiv | 2024 | Github | Project |
 | **Lida: A Tool for Automatic Generation of Grammar-agnostic Visualizations and Infographics using Large Language Models** | ACL | 2023 | Github | Project |
 
-#### 5.4
+#### Quantitative Analysis
 
 | Title | Venue | Date | Code | Project |
 | :---- | :---: | :--: | :--: | :-----: |
