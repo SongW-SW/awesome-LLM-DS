@@ -101,6 +101,28 @@
 | **A multimodal approach to cross‑lingual sentiment analysis with ensemble of transformer and LLM** | Sci. Rep. | 2024 | Github | Project |
 | **Sentiment Analysis through LLM Negotiations** | ArXiv | 2023 | Github | Project |
 
+#### **Analytical Reasoning**
+
+| Title | Venue | Date | Code | Project |
+| :---- | :---: | :--: | :--: | :-----: |
+| **PaLM: Scaling Language Modeling with Pathways** | TMLR | 2023 | Github | Project 
+| **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** | NAACL | 2019 | [Github](https://github.com/google-research/bert) | Project |
+| **Learning Transferable Visual Models From Natural Language Supervision** | ICML | 2021 | [Github](https://github.com/OpenAI/CLIP) | Project |
+| **The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)** | ArXiv | 2023 | Github | Project |
+| **I2MVFormer: Large Language Model Generated Multi-View Document Supervision for Zero-Shot Image Classification** | CVPR | 2023 | [Github](https://github.com/ferjad/I2DFormer) | Project |
+| **CTAL: Pre-training Cross-modal Transformer for Audio-and-Language Representations** | EMNLP | 2021 | [Github](https://github.com/tal-ai/CTAL_EMNLP2021) | Project |
+| **One for all: Towards training one graph model for all classification task** | ICLR | 2024 | [Github](https://github.com/LechengKong/OneForAll) | Project |
+| **Language is All a Graph Needs** | EACL | 2024 | [Github](https://github.com/agiresearch/InstructGLM) | Project |
+| **GPT4Graph: Can Large Language Models Understand Graph Structured Data? An Empirical Evaluation and Benchmarking** | ArXiv | 2023 | [Github](https://anonymous.4open.science/r/GPT4Graph) | Project |
+| **Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning** | NeurIPS Workshop | 2023 | Github | Project |
+| **Scaling Laws for Discriminative Classification in Large Language Models** | Applied AI Letters | 2025 | Github | Project |
+| **Large Language Models for Text Classification: From Zero-Shot Learning to Instruction-Tuning** | Open Science Foundation | 2024 | Github | Project |
+| **An Experimental Evaluation of LLM on Image Classification** | ADC | 2024 | Github | Project |
+| **Contextual Speech Emotion Recognition with Large Language Models and ASR-Based Transcript** | NeurIPS Workshop | 2024 | [Github](https://github.com/coolsoda/SER_nips) | Project |
+| **Enhancing Speech De-Identification with LLM-Based Data Augmentation** | ICAICTA | 2024 | Github | Project |
+| **# Rethinking VLMs and LLMs for Image Classification** | ArXiv | 2024 | Github | Project |
+| **Music Genre Classification using Large Language Models** | ArXiv | 2024 | [Github](https://github.com/megamine25/Music-genre-classification) | Project |
+
 ### **Data Analysis**
 #### Descriptive Analysis
 | Title | Venue | Date | Code | Project |
