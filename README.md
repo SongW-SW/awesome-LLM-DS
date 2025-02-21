@@ -98,7 +98,7 @@
 | **Designing Heterogeneous LLM Agents for Financial Sentiment Analysis** | ACM TMIS | 2024 | Github | Project |
 | **WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge** | ACMMM | 2024 | [Github](https://github.com/DreamMr/WisdoM) | Project |
 | **Unified Multi-modal Pre-training for Few-shot Sentiment Analysis with Prompt-based Learning** | ACMMM | 2022 | [Github](https://github.com/MANLP-suda/UP-MPF) | Project |
-| **A multimodal approach to cross‑lingual sentiment analysis with ensemble of transformer and LLM** | Sci. Rep. |  | Github | Project |
+| **A multimodal approach to cross‑lingual sentiment analysis with ensemble of transformer and LLM** | Sci. Rep. | 2024 | Github | Project |
 | **Sentiment Analysis through LLM Negotiations** | ArXiv | 2023 | Github | Project |
 
 ### **Data Analysis**
